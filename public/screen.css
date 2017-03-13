@@ -3,6 +3,61 @@ html {
 }
 
 body {
+  background-color: ivory;
+  color: #90918a;
   margin: 0;
-  font: 16px / 1 sans-serif;
+  font: 16px / 1 lucida-grande;
+}
+header {
+  margin-bottom: 70px;
+  background-color: black;
+  color: tope;
+}
+
+#logo {
+  width: 10%;
+  float: right;
+}
+#toc {
+  float: right;
+  font-weight: bolder;
+  color: black;
+}
+
+#p1 {
+  color: #869177;
+  font-style: italic;
+  width: 50%;
+  margin-bottom: 200px;
+}
+
+#p2 {
+  font-weight: bold;
+  width: 50%;
+  margin-bottom: 200px;
+}
+
+#p3 {
+  color: black;
+  width: 50%;
+  font-weight: 200;
+  font: New Times Roman;
+}
+h1 {
+  font-size: 35px;
+  color: black;
+}
+
+h3 {
+  color: black;
+}
+
+.thumbs {
+  width: 40%;
+}
+
+footer {
+  margin-bottom: 70px;
+  background-color: black;
+  color: tope;
 }
